@@ -1,4 +1,12 @@
-### Hi there 👋
+Software Engineer, Budding Rubyist, Open Source Contributor.
+
+### Languages
+
+Ruby, C#, TypeScript and sometimes Java, Kotlin, Scala, HTML, CSS
+
+### Projects
+
+[NHibernate Mapping Generator]: https://github.com/rvrn22/nmg
 
 <!--
 **rvrn22/rvrn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
