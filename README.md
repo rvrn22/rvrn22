@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ### Stats
 
 <div>
-  <img align="left" height="215em" alt="Ravi's github stats" src="https://github-readme-stats.vercel.app/api?username=rvrn22&theme=chartreuse-dark&show_icons=true" />
-  <img align="right" height="215em" alt="Ravi's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvrn22&theme=chartreuse-dark" />
+  <img align="left" height="215em" alt="Ravi's github stats" src="https://github-readme-stats-seven-roan-81.vercel.app/api?username=rvrn22&theme=chartreuse-dark&show_icons=true" />
+  <img align="right" height="215em" alt="Ravi's top-languages stats" src="https://github-readme-stats-seven-roan-81.vercel.app/api/top-langs/?username=rvrn22&theme=chartreuse-dark" />
 </div>
