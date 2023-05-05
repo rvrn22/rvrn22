@@ -2,7 +2,7 @@ Software Engineer, Budding Rubyist, Open Source Contributor.
 
 ### Languages
 
-Ruby, C#, TypeScript and sometimes Java, Kotlin, Scala, HTML, CSS
+C#, TypeScript and sometimes Java, Ruby, HTML, CSS
 
 ### Projects
 
