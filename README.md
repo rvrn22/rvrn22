@@ -1,8 +1,8 @@
-Software Engineer, Budding Rubyist, Open Source Contributor.
+Software Engineer, Rust Enthusiast, Open Source Contributor.
 
 ### Languages
 
-C#, TypeScript and sometimes Java, Ruby, HTML, CSS
+C#, TypeScript, Java and sometimes Rust, Ruby, HTML, CSS
 
 ### Projects
 
