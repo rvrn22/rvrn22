@@ -1,8 +1,8 @@
-Software Engineer, Rust Enthusiast, Open Source Contributor.
+Software Engineer, Go Enthusiast, Open Source Contributor.
 
 ### Languages
 
-C#, TypeScript, Java and sometimes Rust, Ruby, HTML, CSS
+C#, TypeScript, Java and sometimes Go, Ruby, HTML, CSS
 
 ### Projects
 
