@@ -1,4 +1,4 @@
-Software Engineer, Go Enthusiast, Open Source Contributor.
+Software Engineer, Open Source Enthusiast, Open Source Contributor.
 
 ### Languages
 
