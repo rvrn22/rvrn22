@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 <div>
   <img align="left" height="215em" alt="Ravi's github stats" src="https://github-readme-stats-vm2b-rvrn22s-projects.vercel.app/api?username=rvrn22&theme=chartreuse-dark&show_icons=true" />
-  <img align="right" height="215em" alt="Ravi's top-languages stats" src="https://github-readme-stats-vm2b-rvrn22s-projects.vercel.app/api?username=rvrn22/api/top-langs/?username=rvrn22&theme=chartreuse-dark" />
+  <img align="right" height="215em" alt="Ravi's top-languages stats" src="https://github-readme-stats-vm2b-rvrn22s-projects.vercel.app/api/top-langs/?username=rvrn22&theme=chartreuse-dark" />
 </div>
