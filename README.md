@@ -7,9 +7,6 @@ C#, TypeScript, Java and sometimes Go, Ruby, HTML, CSS
 ### Projects
 
 [NHibernate Mapping Generator]: https://github.com/rvrn22/nmg
-[Field Smart]: https://github.com/rvrn22/FieldSmart
-[Stock Tracker]: https://github.com/rvrn22/stock-tracker
-
 
 <!--
 **rvrn22/rvrn22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
